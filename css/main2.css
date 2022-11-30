@@ -199,7 +199,9 @@ body {
 }
 @font-face {
   font-family: 'KronaOne-Regular';
-  src: url("../fonts/KronaOne-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  src: url('https://files.cargocollective.com/c1577815/KronaOne-Regular.woff') format('woff');
 }
 
 /*-------------------------------------------------------------------------------
@@ -207,7 +209,7 @@ body {
 -------------------------------------------------------------------------------*/
 /* 2.1 Case */
 body {
-  background-color: #847AA2;
+  background-color: #000;
   background-size: 100% 100%;
 }
 
