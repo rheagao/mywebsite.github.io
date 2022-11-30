@@ -80,7 +80,7 @@ body {
 }
 
 body {
-	font-family: kronaone-regular;
+	font-family: KronaOne-Regular;
 }
 
 @media (max-width: 1000px) {
@@ -203,6 +203,12 @@ body {
 
 /* 1.2 Typography */
 
+@font-face {
+  font-family: 'KronaOne-Regular';
+  font-weight: normal;
+  font-style: normal;
+  src: url('https://files.cargocollective.com/c1577815/KronaOne-Regular.woff') format('woff');
+}
 
 /*-------------------------------------------------------------------------------
   2. Blocks
@@ -313,7 +319,7 @@ body {
 }
 
 .home__title {
-	font-family: kronaone-regular;
+	font-family: KronaOne-Regular;
   font-weight: 300;
   font-size: 110px;
   line-height: 110%;
@@ -328,7 +334,7 @@ body {
 }
 
 .home__desc {
-	font-family: kronaone-regular;
+	font-family: KronaOne-Regular;
   font-size: 18px;
   line-height: 130%;
   letter-spacing: 0.02em;
@@ -416,7 +422,7 @@ body {
 
 .about__text-title {
   width: 58.90603%;
-	font-family: kronaone-regular;
+	font-family: KronaOne-Regular;
   font-style: normal;
   font-weight: 300;
   font-size: 70px;
@@ -547,7 +553,7 @@ body {
 }
 
 .testimonials__title {
-	font-family: kronaone-regular;
+	font-family: KronaOne-Regular;
   font-style: normal;
   font-weight: 300;
   font-size: 70px;
@@ -736,7 +742,7 @@ body {
 }
 
 .testimonials__swiper-author-info {
-	font-family: kronaone-regular;
+	font-family: KronaOne-Regular;
   font-style: normal;
   font-weight: normal;
   font-size: 18px;

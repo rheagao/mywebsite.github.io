@@ -60,7 +60,7 @@ body {
 }
 
 body {
-	font-family: kronaone-regular;
+	font-family: KronaOne-Regular;
 }
 
 @media (max-width: 1000px) {
@@ -765,7 +765,7 @@ body {
 }
 
 .hero__text-text {
-  font-family: 'kronaone-regular';
+  font-family: 'KronaOne-Regular';
   font-style: normal;
   font-weight: normal;
   font-size: 22px;
