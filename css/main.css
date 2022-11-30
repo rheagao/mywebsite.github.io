@@ -80,7 +80,7 @@ body {
 }
 
 body {
-	font-family: KronaOne-Regular;
+	font-family: "KronaOne-Regular";
 }
 
 @media (max-width: 1000px) {
@@ -313,7 +313,7 @@ body {
 }
 
 .home__title {
-	font-family: KronaOne-Regular;
+	font-family: "KronaOne-Regular";
   font-weight: 300;
   font-size: 110px;
   line-height: 110%;
@@ -328,7 +328,7 @@ body {
 }
 
 .home__desc {
-	font-family: KronaOne-Regular;
+	font-family: "KronaOne-Regular";
   font-size: 18px;
   line-height: 130%;
   letter-spacing: 0.02em;
@@ -416,7 +416,7 @@ body {
 
 .about__text-title {
   width: 58.90603%;
-	font-family: KronaOne-Regular;
+	font-family: "KronaOne-Regular";
   font-style: normal;
   font-weight: 300;
   font-size: 70px;
@@ -547,7 +547,7 @@ body {
 }
 
 .testimonials__title {
-	font-family: KronaOne-Regular;
+	font-family: "KronaOne-Regular";
   font-style: normal;
   font-weight: 300;
   font-size: 70px;
@@ -736,7 +736,7 @@ body {
 }
 
 .testimonials__swiper-author-info {
-	font-family: KronaOne-Regular;
+	font-family: "KronaOne-Regular";
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
