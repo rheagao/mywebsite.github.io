@@ -203,12 +203,6 @@ body {
 
 /* 1.2 Typography */
 
-@font-face {
-  font-family: 'KronaOne-Regular';
-  font-weight: normal;
-  font-style: normal;
-  src: url('https://files.cargocollective.com/c1577815/KronaOne-Regular.woff') format('woff');
-}
 
 /*-------------------------------------------------------------------------------
   2. Blocks
@@ -1358,10 +1352,13 @@ body {
 
 .blog__swiper-button-prev:hover svg circle {
   stroke: #f3f3f3;
+  fill: #847AA2;
 }
 
 .blog__swiper-button-prev:hover svg path {
   stroke: #f3f3f3;
+  fill: #847AA2;
+
 }
 
 .blog__swiper-button-next {
@@ -1391,10 +1388,12 @@ body {
 
 .blog__swiper-button-next:hover svg circle {
   stroke: #f3f3f3;
+  fill: #847AA2;
 }
 
 .blog__swiper-button-next:hover svg path {
   stroke: #f3f3f3;
+  fill: #847AA2;
 }
 
 .swiper-slide {
