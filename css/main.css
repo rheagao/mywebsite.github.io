@@ -202,7 +202,12 @@ body {
 }
 
 /* 1.2 Typography */
-
+@font-face {
+  font-family: 'KronaOne-Regular';
+  font-weight: normal;
+  font-style: normal;
+  src: url('https://files.cargocollective.com/c1577815/KronaOne-Regular.woff') format('woff');
+}
 
 /*-------------------------------------------------------------------------------
   2. Blocks
